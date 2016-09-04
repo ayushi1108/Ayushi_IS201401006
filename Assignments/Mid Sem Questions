@@ -1,0 +1,34 @@
+
+
+
+1.what are disadvantages of assembly language ?(multiple correct)
+	a)It provides the poorest conceptual framework for the programmer to express the computing operations he wants performed.
+	b)It is completely machine dependent, thus requiring any machine language program to be completely rewritten when it is transferred to 		  a different machine.
+	c)Assembly language can be quickly compiled.
+	d)most people find assembly language programs harder to write, read, understand, debug and maintain than high level language programs.
+ans:-a,b,d
+
+2.what is computer science with respect to software systems?
+ans:-Computer science aims at defining general principles underlying the design and application of software systems. It regards elegance and consistency highly, and tends to ignore small and awkward corners in its subject matter.
+
+3.-----------,-----------,-----------,----------- can enable assembly level language to overcome its disadvantages (poorest conceptual        framework,machine dependent,harder to write, read, understand, debug and maintain than high level language programs.)
+
+ans:-Clarity,Efciency,Simple and exible language design,No run-time system,machine independent,Ability to run together programs written in different languages.
+
+
+4.Any three basic of the monitor logic (UNIVAC 1108 instrumentation) are ---------------------------,---------------------------,--------------------------- .
+ans:- any three out of the below mentioned
+1. Logic to detect the execution of jump instructions within the monitored processor and to capture P-register values relating to those jumps.
+2.Registers to provide a buffered data path from the monitored processor to the recording processor.
+3.A free running time base with a 0.5 μsec period to provide time information relating to jump occurrences.
+4.Jump loop detecting and counting logic.
+5.Control logic to sequence data flow through the monitor.
+
+
+
+5.Name a few problems in compiler design:(multiple correct)
+a) Maintenance and documentation
+b) Subroutine libraries
+c) Operating system interface
+d) Resource allocation
+ans:-all the above
