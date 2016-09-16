@@ -35,3 +35,16 @@ week 5
 *we disscussed about projects and finalised to go through scrum modal.
 *software quality ,code clarity.
 *Estimation of software,project can be estimated by LOC,function points.
+ 
+Week 6
+*software design,different aspects of design.
+*Design is not just for communication but it also helps us in realisation.
+*Different ways to make designs:-informal,semiformal,formal.
+*Design cycle analyse--->synthesis--->evaluate. which consists of goals,constraints,assumpations,decision and ideas .
+*we learned there is very thin difference between each one of them.
+*seven difficulties faced by designers:-
+  prediction:-people,longavity:-legacy,tradeoff:-quantify,quality(cost and effort),change,source,bias.
+*what experts designers do to be safe from such problems:-
+  -prefer soln that they know work around
+*Design should be used for requirement analysis.
+*It should be documented so that it supports implementation and maintainence.
